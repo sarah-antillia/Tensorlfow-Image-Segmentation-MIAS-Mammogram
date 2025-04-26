@@ -118,10 +118,10 @@ expand it and place it under ./dataset to be.
 This is a 512x512 pixels JPG images and their corresponding masks dataset for Malignant MIAS Mammogram dataset.
 <br>
 <br>
-<b>4K Malignanat MIAS Mammogram images sample</b><br>
+<b>4K Malignant MIAS Mammogram images sample</b><br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Augmented-MIAS-Mammogram/asset/4k_malignant_mias_images_sample.png" width="1024" height="auto">
 <br>
-<b>4K Malignanat MIAS Mammogram masks sample (red circles)</b><br>
+<b>4K Malignant MIAS Mammogram masks sample (red circles)</b><br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Augmented-MIAS-Mammogram/asset/4k_malignant_mias_masks_sample.png" width="1024" height="auto">
 <br>
 <br>
